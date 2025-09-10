@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "object-and-arrays-regalajaireellsons",
+=======
+<<<<<<< HEAD
+  "name": "variables-and-functions-regalajaireellsons",
+=======
+  "name": "regala_jaireelllson-act3",
+>>>>>>> 3a1cee8f05a4cd8b490fec3493b96cf9efa64a2d
+>>>>>>> cc8c0f9a17e1c5a4178eb432dfdc8e134bec0108
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,5 +20,14 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+>>>>>>> 3a1cee8f05a4cd8b490fec3493b96cf9efa64a2d
+>>>>>>> cc8c0f9a17e1c5a4178eb432dfdc8e134bec0108
   }
 }
