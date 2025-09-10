@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "variables-and-functions-regalajaireellsons",
+=======
+  "name": "regala_jaireelllson-act3",
+>>>>>>> 3a1cee8f05a4cd8b490fec3493b96cf9efa64a2d
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,5 +16,11 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0"
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+>>>>>>> 3a1cee8f05a4cd8b490fec3493b96cf9efa64a2d
   }
 }
